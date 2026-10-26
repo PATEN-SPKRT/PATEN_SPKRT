@@ -12,8 +12,7 @@ Sistem ini menerapkan *Role-Based Access Control* (RBAC) dengan tingkatan hak ak
 
 | Peran Pengguna | Deskripsi Singkat & Hak Akses Utama |
 | :--- | :--- |
-| **Super Admin / Admin Pusat** | Pengelolaan pengguna penuh, konfigurasi master data sistem, dan manajemen hak akses di seluruh tingkatan wilayah. |
-| **Admin Provinsi** | Monitoring progres wilayah provinsi, pengawasan rekapitulasi data regional, serta penarikan laporan komprehensif. |
+| **Admin Provinsi** | Pengelolaan pengguna penuh, konfigurasi master data sistem, dan manajemen hak akses di seluruh tingkatan wilayah. Monitoring progres wilayah provinsi, pengawasan rekapitulasi data regional, serta penarikan laporan komprehensif. |
 | **Admin Kab/Kota** | Pengelolaan akun petugas lokal, alokasi NKS (Nomor Klaster Sampel), dan alokasi DSRT (Daftar Sampel Rumah Tangga) ke petugas. |
 | **PPL (Petugas Pendataan Lapangan)** | Mengakses alokasi DSRT, mengunggah (*upload*) berkas kuesioner hasil pendataan lapangan, serta melihat status unggahan. |
 | **PML (Petugas Pemeriksa Lapangan)** | Memeriksa berkas unggahan PPL, melakukan *entry* data kuesioner ke dalam sistem, dan menandai kuesioner yang selesai di-entry. Melakukan validasi akurasi, konsistensi isian data, data yang telah dientry. 
