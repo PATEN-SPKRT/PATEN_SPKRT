@@ -33,12 +33,12 @@ Sistem ini menerapkan *Role-Based Access Control* (RBAC) dengan tingkatan hak ak
 
 ### 3.3 Modul Upload Kuesioner Lapangan (PPL)
 * **REQ-UP-01:** PPL dapat melihat daftar assignment DSRT yang ditugaskan kepadanya.
-* **REQ-UP-02:** PPL dapat mengunggah berkas kuesioner hasil pendataan lapangan (format PDF/Gambar) per DSRT.
+* **REQ-UP-02:** PPL dapat mengunggah berkas kuesioner hasil pendataan lapangan (format PDF/Gambar) per DSRT. (Menu SPKRT.BL, SPKRT.LK, SPKRT.S)
 * **REQ-UP-03:** PPL dapat mengganti/mengunggah ulang berkas kuesioner jika terdapat permintaan perbaikan dari PML.
 
 ### 3.4 Modul Entry Data (PML)
-* **REQ-ED-01:** PML dapat melihat daftar berkas kuesioner yang diunggah oleh PPL bawahannya.
-* **REQ-ED-02:** PML dapat membuka antarmuka *entry* data yang berdampingan dengan penampil berkas kuesioner (*document viewer*).
+* **REQ-ED-01:** PML dapat melihat daftar berkas kuesioner yang diunggah oleh PPL bawahannya. (Menu SPKRT.BL, SPKRT.LK, SPKRT.S)
+* **REQ-ED-02:** PML dapat membuka antarmuka *entry* data yang berdampingan dengan penampil berkas kuesioner (*document viewer*). 
 * **REQ-ED-03:** PML dapat menyimpan draft entrian data dan menyelesaikan entrian data (*submit*).
 
 ### 3.5 Modul Validasi Data & Kontrol Kualitas
